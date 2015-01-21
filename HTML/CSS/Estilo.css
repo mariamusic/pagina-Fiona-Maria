@@ -1,0 +1,45 @@
+html{
+	font-family: "Roboto";
+	font-weight: normal;
+}
+
+.fixed{ 
+	border-bottom: 6px solid black;
+}
+.imagen{ 
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%
+}
+.imagen img {width: 600px;
+height:300px;}
+
+
+a{ 
+	text-decoration: none; 
+	color: black;
+}
+nav{
+	text-align: center;
+}
+nav ul li{
+	list-style: none;
+	display: inline-block;
+	margin-right: 10px;
+	padding: 5px;
+}
+
+nav ul li a{
+	font-size: 20px;
+}
+nav ul li a:hover{
+	color: #ff2651;
+}
+.container{ 	
+	width: 400px;
+	text-align: justify;
+}
+span a{ 
+	font-weight: bold; 
+	color: #ff2651;
+}
